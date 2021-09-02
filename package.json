@@ -1,0 +1,13 @@
+{
+  "name": "adb-auto-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "babel-node test.js"
+  },
+  "author": "gith",
+  "license": "ISC",
+  "type": "module"
+}
